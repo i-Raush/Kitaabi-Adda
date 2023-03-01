@@ -7,7 +7,7 @@
 * Node JS, Express JS and MongoDb is used for Backend server which is deployed on Vercel.
 
 ## Features:
-<b1. User Authentication (Signup, Login and Logout)/>
+<b>1. User Authentication (Signup, Login and Logout)</b>
 ![Login](https://user-images.githubusercontent.com/104415277/222165119-1fec86d0-cf1c-4190-b50f-179b1115cd0f.png)
 3. Proper Landing page with categories and New Arrivals
 ![Landing_page](https://user-images.githubusercontent.com/104415277/222169027-fd899377-2630-4bd0-afde-5baa10b197d7.png)
